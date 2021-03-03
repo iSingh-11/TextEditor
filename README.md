@@ -1,2 +1,9 @@
-# TextEditor - A Console Based App
-A Console based Text Editor Tool made using LinkedList in Java. Each word has been treated as a LinkedList Node and has a Cursor which is initially set to 0th Node and 0th Position. It supports multi-line files and multiple spaces between words. All the basic operations such as moving cursor in forward &amp; backward direction, insertion, deletion, moving at the start &amp; end of the line are available.
+# TextEditor - A Console App
+A Console based Text Editor made in Java. Each word has been treated as a LinkedList Node. All the basic operations
+such as moving cursor in forward & backward direction, insertion, deletion, undo are supported.
+
+### Technology Used: 
+Data Structures (LinkedList & Stack) and ANSI Escape Code (for clearing console).
+
+### A Small Preview of the Project can be Viewed Here : 
+https://editor-3p34g81a8u8kkpi2kf8.codequotient.in/
